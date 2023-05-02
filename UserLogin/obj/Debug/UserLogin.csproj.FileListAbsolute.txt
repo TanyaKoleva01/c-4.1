@@ -1,0 +1,12 @@
+D:\User\TU\Семестър 6\ПС\лб\PS_43_Vladimir\UserLogin\bin\Debug\UserLogin.exe.config
+D:\User\TU\Семестър 6\ПС\лб\PS_43_Vladimir\UserLogin\bin\Debug\UserLogin.exe
+D:\User\TU\Семестър 6\ПС\лб\PS_43_Vladimir\UserLogin\bin\Debug\UserLogin.pdb
+D:\User\TU\Семестър 6\ПС\лб\PS_43_Vladimir\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+D:\User\TU\Семестър 6\ПС\лб\PS_43_Vladimir\UserLogin\obj\Debug\UserLogin.exe
+D:\User\TU\Семестър 6\ПС\лб\PS_43_Vladimir\UserLogin\obj\Debug\UserLogin.pdb
+D:\User\TU\Семестър 6\ПС\лб\PS_43_Vladimir\UserLogin\obj\Debug\UserLogin.csproj.AssemblyReference.cache
+D:\User\TU\Семестър 6\ПС\лб\PS_43_Vladimir\UserLogin\bin\Debug\EntityFramework.dll
+D:\User\TU\Семестър 6\ПС\лб\PS_43_Vladimir\UserLogin\bin\Debug\EntityFramework.SqlServer.dll
+D:\User\TU\Семестър 6\ПС\лб\PS_43_Vladimir\UserLogin\bin\Debug\EntityFramework.xml
+D:\User\TU\Семестър 6\ПС\лб\PS_43_Vladimir\UserLogin\bin\Debug\EntityFramework.SqlServer.xml
+D:\User\TU\Семестър 6\ПС\лб\PS_43_Vladimir\UserLogin\obj\Debug\UserLogin.csproj.CopyComplete
